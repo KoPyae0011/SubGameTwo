@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b962eaeb-004e-455b-af9c-19b5bfe3725a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1147,
+  "platformSettings": {},
+  "subMetas": {
+    "sasuke (1)": {
+      "ver": "1.0.4",
+      "uuid": "529698e3-c64e-43be-b3ca-43093975f9ed",
+      "rawTextureUuid": "b962eaeb-004e-455b-af9c-19b5bfe3725a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1147,
+      "rawWidth": 1920,
+      "rawHeight": 1147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
